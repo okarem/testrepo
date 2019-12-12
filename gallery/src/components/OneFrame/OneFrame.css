@@ -1,0 +1,10 @@
+.one-frame-container {
+    display: flex;
+    background: burlywood;
+    width: 220px;
+    padding: 10px;
+    border-width: 5px;
+    border-color: floralwhite;
+    align-items: center;
+    justify-content: space-around;
+}
